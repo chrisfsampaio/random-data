@@ -1,7 +1,5 @@
 #RandomData 
 
-#####A service that generates random data.
-
-######See for your self:
+###A service that generates random data.
 
 ###http://random-data.herokuapp.com
