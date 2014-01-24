@@ -17,9 +17,9 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: RandomData_development
+  database: randomdata_development
   pool: 5
-  username: RandomData
+# username: RandomData
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -46,15 +46,15 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: RandomData_test
+  database: randomdata_test
   pool: 5
-  username: RandomData
+#  username: RandomData
   password:
 
 production:
   adapter: postgresql
   encoding: unicode
-  database: RandomData_production
+  database: randomdata_production
   pool: 5
-  username: RandomData
+#  username: RandomData
   password:
