@@ -1,7 +1,4 @@
 source 'https://rubygems.org'
-gem 'sinatra', :github => "sinatra/sinatra"
-
-source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
