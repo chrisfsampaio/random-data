@@ -1,7 +1,9 @@
 require 'test_helper'
 
 class GeneratorControllerTest < ActionController::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+  test "should get generate" do
+    get :generate
+    assert_response :success
+  end
+
 end
