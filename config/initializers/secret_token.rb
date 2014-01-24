@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-RandomData::Application.config.secret_key_base = '8ce8e4d3cbf43ba66dba3dc5eb46ba270a519f197545c1b28b31f34e6909c99e184e25627525180b0f4a207e3ec8311f0d2133b685a2a367a560218e17674ece'
+RandomData::Application.config.secret_key_base = 'e799f455c2d1c9d3a93e0335eef0b9cdd420f8d21b4e87329967e9759dd89017a4ee78129b66c26dbcf2214e63f7ea3acf9b31809980bbe3824c00935589ebaf'
